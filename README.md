@@ -16,8 +16,7 @@
     <li><a href="#technologies-used">2. Technologies Used</a></li>
     <li><a href="#frontend-deployment">3. Front-end Deployment</a></li>
     <li><a href="#api-documentation">4. API Documentation and Endpoints</a></li>
-    <li><a href="#evaluation-criteria">5. Evaluation Criteria</a></li>
-    <li><a href="#license">6. License</a></li>
+    <li><a href="#license">5. License</a></li>
 </ul>
 
 <h2 id="features">1. Features</h2>
@@ -58,13 +57,12 @@
 deployed api [https://mern-task-manager-b5br.onrender.com/]
 <p>Provide documentation for the backend APIs including endpoint descriptions, request/response formats, etc.</p>
 <ul>
-  <li><code>/signup</code>: Endpoint for user registration</li>
-  <li><code>/login</code>: Endpoint for user login and authentication</li>
-  <li><code>/task</code>: Endpoint to retrieve all tasks</li>
-  <li><code>/task/:id</code>: Endpoint to retrieve a single task by ID</li>
-  <li><code>/task/create</code>: Endpoint to create a new task</li>
-  <li><code>/task/update/:id</code>: Endpoint to update a task by ID</li>
-  <li><code>/task/delete/:id</code>: Endpoint to delete a task by ID</li>
+  <li><code>/</code>:Home Screen</li>
+  <li><code>/signup</code>:  User registration</li>
+  <li><code>/login</code>:  user login and authentication</li>
+  <li><code>/task</code>:  retrieve all tasks</li>
+  <li><code>/task/:id</code>:  single task by ID</li>
+
 </ul>
 
 <h2 id="license">5. License</h2>
