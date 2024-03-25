@@ -46,7 +46,7 @@
 
 <h2 id="frontend-deployment">3. Front-end Deployment</h2>
  deployed url [https://mern-task-manager-b5br.onrender.com/]
-<img src="https://drive.google.com/file/d/1sezl9u-P_RqJW5fWusgfgr9H0azjqdWw/view?usp=drive_link" />
+<img src="https://drive.google.com/file/d/1I0rq5x1YrzhtX-sFn2TxMenvHdC3yud9/view?usp=drive_link" />
 <img src="https://drive.google.com/file/d/148cb9hhFUJIm5cD4urZw2YCKiYOkVN0B/view?usp=sharing" />
 <img src="https://drive.google.com/file/d/1I0rq5x1YrzhtX-sFn2TxMenvHdC3yud9/view?usp=sharing" />
 
